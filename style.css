@@ -1,0 +1,95 @@
+body
+{
+	background: url(foodie.jpg);
+	background-size: cover;
+}
+.loginbox
+{
+	width: 320px;
+	height: 500px;
+	box-sizing: border-box;
+	background-color:pink;
+	opacity:0.6;
+
+	transform: translate(600px, 10px);
+}
+h1{
+	text-align: center;
+	color: blue;
+	padding-top: 50px;
+
+}
+.loginbox input[type="submit"]
+{
+	border:none;
+	outine:none;
+	border-radius: 20px;
+	width: 50%;
+	height: 40px;
+	margin-top: 20px;
+	font-size: 15px;
+	s;
+}
+.loginbox p
+{
+	text-align: center;
+	color: red;
+	font-family: sans-serif;
+
+}
+
+.loginbox a
+{
+	color:black;
+	text-decoration: none;
+	padding:10px;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

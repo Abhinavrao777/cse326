@@ -1,0 +1,74 @@
+body
+{
+background: url(foodie.jpg);
+background-size: cover;
+
+}
+
+
+.signin
+{
+	
+	width: 320px;
+    height: 480px;
+    background-color: pink;
+    box-sizing: border-box;
+   
+    transform: translate(600px, 180px);
+opacity: 0.6;
+
+}
+h1{
+	text-align: center;
+	color: red;
+	padding-top: 30px;
+}
+.signin input[type="submit"]
+{
+	 border: none;
+	 outline: none;
+    border-radius: 20px;
+    width: 50%;
+    height: 40px;
+    margin-top: 40px;
+    font-size: 15px;
+
+
+    
+
+}
+.signin input[type="text"], input[type="password"]
+{
+
+	border: none;
+	background-color: transparent;
+	 outline: none;
+	  border-bottom: 1px solid black;
+	  margin-top: 15px;
+
+}
+
+.signin p
+{
+	text-align: center;
+
+}
+
+.signin a
+{
+	color: red;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 12px;
+}
+.submit
+{
+	 border: none;
+	 outline: none;
+    border-radius: 20px;
+
+    width: 50%;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 15px;
+}
